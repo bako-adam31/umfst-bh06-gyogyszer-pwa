@@ -1,0 +1,11 @@
+{
+  "name": "Gyógyszer-emlékeztető",
+  "short_name": "Gyógyszer",
+  "start_url": "/index.htm",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#0e7c66",
+  "icons": [
+    { "src": "/icons/icon.png", "type": "image/png" }
+  ]
+}
